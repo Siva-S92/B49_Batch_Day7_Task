@@ -1,0 +1,251 @@
+GUVI_MAIN_CLASS\B49_Batch_Day7_Task\B49_Batch_Day7_Task\B49_Batch_Day7_Task3"
+Country Name: Hashemite Kingdom of Jordan, Country's Capital: Amman, Country's Flag: 🇯🇴
+Country Name: Commonwealth of the Northern Mariana Islands, Country's Capital: Saipan, Country's Flag: 🇲🇵
+Country Name: Republic of Serbia, Country's Capital: Belgrade, Country's Flag: 🇷🇸
+Country Name: Principality of Andorra, Country's Capital: Andorra la Vella, Country's Flag: 🇦🇩
+Country Name: Turks and Caicos Islands, Country's Capital: Cockburn Town, Country's Flag: 🇹🇨
+Country Name: Bermuda, Country's Capital: Hamilton, Country's Flag: 🇧🇲
+Country Name: Antarctica, Country's Capital: undefined, Country's Flag: 🇦🇶
+Country Name: Plurinational State of Bolivia, Country's Capital: Sucre, Country's Flag: 🇧🇴
+Country Name: State of Libya, Country's Capital: Tripoli, Country's Flag: 🇱🇾
+Country Name: Republic of Mali, Country's Capital: Bamako, Country's Flag: 🇲🇱
+Country Name: Republic of Armenia, Country's Capital: Yerevan, Country's Flag: 🇦🇲
+Country Name: Republic of Mauritius, Country's Capital: Port Louis, Country's Flag: 🇲🇺
+Country Name: Republic of the Maldives, Country's Capital: Malé, Country's Flag: 🇲🇻
+Country Name: American Samoa, Country's Capital: Pago Pago, Country's Flag: 🇦🇸
+Country Name: Republic of North Macedonia, Country's Capital: Skopje, Country's Flag: 🇲🇰
+Country Name: Federal Democratic Republic of Ethiopia, Country's Capital: Addis Ababa, Country's Flag: 🇪🇹
+Country Name: Greenland, Country's Capital: Nuuk, Country's Flag: 🇬🇱
+Country Name: Republic of Iraq, Country's Capital: Baghdad, Country's Flag: 🇮🇶
+Country Name: Republic of Guatemala, Country's Capital: Guatemala City, Country's Flag: 🇬🇹
+Country Name: Republic of Trinidad and Tobago, Country's Capital: Port of Spain, Country's Flag: 🇹� �
+Country Name: Republic of Peru, Country's Capital: Lima, Country's Flag: 🇵🇪
+Country Name: Republic of Suriname, Country's Capital: Paramaribo, Country's Flag: 🇸🇷
+Country Name: Kingdom of Sweden, Country's Capital: Stockholm, Country's Flag: 🇸🇪
+Country Name: New Caledonia, Country's Capital: Nouméa, Country's Flag: 🇳🇨
+Country Name: French Polynesia, Country's Capital: Papeetē, Country's Flag: 🇵🇫
+Country Name: Republic of Benin, Country's Capital: Porto-Novo, Country's Flag: 🇧🇯
+Country Name: Republic of Estonia, Country's Capital: Tallinn, Country's Flag: 🇪🇪
+Country Name: Falkland Islands, Country's Capital: Stanley, Country's Flag: 🇫🇰
+Country Name: Guam, Country's Capital: Hagåtña, Country's Flag: 🇬🇺
+Country Name: Republic of Zimbabwe, Country's Capital: Harare, Country's Flag: 🇿🇼
+Country Name: Slovak Republic, Country's Capital: Bratislava, Country's Flag: 🇸🇰
+Country Name: Kingdom of the Netherlands, Country's Capital: Amsterdam, Country's Flag: 🇳🇱
+Country Name: Republic of Ecuador, Country's Capital: Quito, Country's Flag: 🇪🇨
+Country Name: Kingdom of Saudi Arabia, Country's Capital: Riyadh, Country's Flag: 🇸🇦
+Country Name: United Arab Emirates, Country's Capital: Abu Dhabi, Country's Flag: 🇦🇪
+Country Name: Islamic Republic of Afghanistan, Country's Capital: Kabul, Country's Flag: 🇦🇫
+Country Name: United States Minor Outlying Islands, Country's Capital: Washington DC, Country's Flag: 🇺🇲
+Country Name: Central African Republic, Country's Capital: Bangui, Country's Flag: 🇨🇫
+Country Name: Republic of Panama, Country's Capital: Panama City, Country's Flag: 🇵🇦
+Country Name: Vatican City State, Country's Capital: Vatican City, Country's Flag: 🇻🇦
+Country Name: Syrian Arab Republic, Country's Capital: Damascus, Country's Flag: 🇸🇾
+Country Name: Republic of Vanuatu, Country's Capital: Port Vila, Country's Flag: 🇻🇺
+Country Name: Republic of Honduras, Country's Capital: Tegucigalpa, Country's Flag: 🇭🇳
+Country Name: Independent and Sovereign Republic of Kiribati, Country's Capital: South Tarawa, Country's Flag: 🇰🇮
+Country Name: Republic of Chile, Country's Capital: Santiago, Country's Flag: 🇨🇱
+Country Name: Burkina Faso, Country's Capital: Ouagadougou, Country's Flag: 🇧🇫
+Country Name: Federation of Saint Christopher and Nevis, Country's Capital: Basseterre, Country's Flag: 🇰🇳
+Country Name: Collectivity of Saint Barthélemy, Country's Capital: Gustavia, Country's Flag: 🇧🇱
+Country Name: United Mexican States, Country's Capital: Mexico City, Country's Flag: 🇲🇽
+Country Name: People's Republic of China, Country's Capital: Beijing, Country's Flag: 🇨🇳
+Country Name: Democratic Republic of Timor-Leste, Country's Capital: Dili, Country's Flag: 🇹🇱
+Country Name: British Indian Ocean Territory, Country's Capital: Diego Garcia, Country's Flag: 🇮🇴
+Country Name: Republic of South Sudan, Country's Capital: Juba, Country's Flag: 🇸🇸
+Country Name: Kingdom of Eswatini, Country's Capital: Mbabane, Country's Flag: 🇸🇿
+Country Name: Republic of Uzbekistan, Country's Capital: Tashkent, Country's Flag: 🇺🇿
+Country Name: Republic of Indonesia, Country's Capital: Jakarta, Country's Flag: 🇮🇩
+Country Name: Republic of Paraguay, Country's Capital: Asunción, Country's Flag: 🇵🇾
+Country Name: Principality of Monaco, Country's Capital: Monaco, Country's Flag: 🇲🇨
+Country Name: Grenada, Country's Capital: St. George's, Country's Flag: 🇬🇩
+Country Name: Republic of Croatia, Country's Capital: Zagreb, Country's Flag: 🇭🇷
+Country Name: Republic of Poland, Country's Capital: Warsaw, Country's Flag: 🇵🇱
+Country Name: Bosnia and Herzegovina, Country's Capital: Sarajevo, Country's Flag: 🇧🇦
+Country Name: Canada, Country's Capital: Ottawa, Country's Flag: 🇨🇦
+Country Name: Portuguese Republic, Country's Capital: Lisbon, Country's Flag: 🇵🇹
+Country Name: Federative Republic of Brazil, Country's Capital: Brasília, Country's Flag: 🇧🇷
+Country Name: Islamic Republic of Mauritania, Country's Capital: Nouakchott, Country's Flag: 🇲🇷
+Country Name: State of Israel, Country's Capital: Jerusalem, Country's Flag: 🇮🇱
+Country Name: Country of Curaçao, Country's Capital: Willemstad, Country's Flag: 🇨🇼
+Country Name: Nation of Brunei, Abode of Peace, Country's Capital: Bandar Seri Begawan, Country's Flag: 🇧🇳
+Country Name: Republic of Angola, Country's Capital: Luanda, Country's Flag: 🇦🇴
+Country Name: Republic of Malta, Country's Capital: Valletta, Country's Flag: 🇲🇹
+Country Name: Republic of Belarus, Country's Capital: Minsk, Country's Flag: 🇧🇾
+Country Name: Republic of Turkey, Country's Capital: Ankara, Country's Flag: 🇹🇷
+Country Name: Republic of Finland, Country's Capital: Helsinki, Country's Flag: 🇫🇮
+Country Name: Gibraltar, Country's Capital: Gibraltar, Country's Flag: 🇬🇮
+Country Name: Kingdom of Bhutan, Country's Capital: Thimphu, Country's Flag: 🇧🇹
+Country Name: Kingdom of Spain, Country's Capital: Madrid, Country's Flag: 🇪🇸
+Country Name: Bolivarian Republic of Venezuela, Country's Capital: Caracas, Country's Flag: 🇻🇪
+Country Name: State of Qatar, Country's Capital: Doha, Country's Flag: 🇶🇦
+Country Name: Czech Republic, Country's Capital: Prague, Country's Flag: 🇨🇿
+Country Name: State of Kuwait, Country's Capital: Kuwait City, Country's Flag: 🇰🇼
+Country Name: Montenegro, Country's Capital: Podgorica, Country's Flag: 🇲🇪
+Country Name: Bouvet Island, Country's Capital: undefined, Country's Flag: 🇧🇻
+Country Name: Republic of India, Country's Capital: New Delhi, Country's Flag: 🇮🇳
+Country Name: New Zealand, Country's Capital: Wellington, Country's Flag: 🇳🇿
+Country Name: Jamaica, Country's Capital: Kingston, Country's Flag: 🇯🇲
+Country Name: Cayman Islands, Country's Capital: George Town, Country's Flag: 🇰🇾
+Country Name: Republic of San Marino, Country's Capital: City of San Marino, Country's Flag: 🇸🇲
+Country Name: Republic of the Congo, Country's Capital: Brazzaville, Country's Flag: 🇨🇬
+Country Name: Islamic Republic of Pakistan, Country's Capital: Islamabad, Country's Flag: 🇵🇰
+Country Name: French Republic, Country's Capital: Paris, Country's Flag: 🇫🇷
+Country Name: Republic of Kazakhstan, Country's Capital: Nur-Sultan, Country's Flag: 🇰🇿
+Country Name: Kingdom of Bahrain, Country's Capital: Manama, Country's Flag: 🇧🇭
+Country Name: Republic of Fiji, Country's Capital: Suva, Country's Flag: 🇫🇯
+Country Name: Iceland, Country's Capital: Reykjavik, Country's Flag: 🇮🇸
+Country Name: Republic of the Union of Myanmar, Country's Capital: Naypyidaw, Country's Flag: 🇲🇲
+Country Name: People's Republic of Bangladesh, Country's Capital: Dhaka, Country's Flag: 🇧🇩
+Country Name: Republic of the Philippines, Country's Capital: Manila, Country's Flag: 🇵🇭
+Country Name: Republic of Equatorial Guinea, Country's Capital: Malabo, Country's Flag: 🇬🇶
+Country Name: Republic of Ireland, Country's Capital: Dublin, Country's Flag: 🇮🇪
+Country Name: Federal Democratic Republic of Nepal, Country's Capital: Kathmandu, Country's Flag: 🇳 🇵
+Country Name: Republic of Yemen, Country's Capital: Sana'a, Country's Flag: 🇾🇪
+Country Name: Republic of Korea, Country's Capital: Seoul, Country's Flag: 🇰🇷
+Country Name: Kingdom of Denmark, Country's Capital: Copenhagen, Country's Flag: 🇩🇰
+Country Name: Sultanate of Oman, Country's Capital: Muscat, Country's Flag: 🇴🇲
+Country Name: Saint Vincent and the Grenadines, Country's Capital: Kingstown, Country's Flag: 🇻🇨
+Country Name: State of Eritrea, Country's Capital: Asmara, Country's Flag: 🇪🇷
+Country Name: Commonwealth of Australia, Country's Capital: Canberra, Country's Flag: 🇦🇺
+Country Name: Islamic Republic of Iran, Country's Capital: Tehran, Country's Flag: 🇮🇷
+Country Name: Republic of El Salvador, Country's Capital: San Salvador, Country's Flag: 🇸🇻
+Country Name: United Republic of Tanzania, Country's Capital: Dodoma, Country's Flag: 🇹🇿
+Country Name: Guadeloupe, Country's Capital: Basse-Terre, Country's Flag: 🇬🇵
+Country Name: Solomon Islands, Country's Capital: Honiara, Country's Flag: 🇸🇧
+Country Name: Republic of Kenya, Country's Capital: Nairobi, Country's Flag: 🇰🇪
+Country Name: Dominican Republic, Country's Capital: Santo Domingo, Country's Flag: 🇩🇴
+Country Name: Hellenic Republic, Country's Capital: Athens, Country's Flag: 🇬🇷
+Country Name: Bailiwick of Guernsey, Country's Capital: St. Peter Port, Country's Flag: 🇬🇬
+Country Name: Republic of Rwanda, Country's Capital: Kigali, Country's Flag: 🇷🇼
+Country Name: Saint Pierre and Miquelon, Country's Capital: Saint-Pierre, Country's Flag: 🇵🇲
+Country Name: Tuvalu, Country's Capital: Funafuti, Country's Flag: 🇹🇻
+Country Name: Republic of China (Taiwan), Country's Capital: Taipei, Country's Flag: 🇹🇼
+Country Name: Co-operative Republic of Guyana, Country's Capital: Georgetown, Country's Flag: 🇬🇾
+Country Name: Republic of Seychelles, Country's Capital: Victoria, Country's Flag: 🇸🇨
+Country Name: Democratic People's Republic of Korea, Country's Capital: Pyongyang, Country's Flag: �🇵�
+Country Name: Republic of Botswana, Country's Capital: Gaborone, Country's Flag: 🇧🇼
+Country Name: Kingdom of Cambodia, Country's Capital: Phnom Penh, Country's Flag: 🇰🇭
+Country Name: Barbados, Country's Capital: Bridgetown, Country's Flag: 🇧🇧
+Country Name: Republic of Colombia, Country's Capital: Bogotá, Country's Flag: 🇨🇴
+Country Name: Ukraine, Country's Capital: Kyiv, Country's Flag: 🇺🇦
+Country Name: Republic of Côte d'Ivoire, Country's Capital: Yamoussoukro, Country's Flag: 🇨🇮
+Country Name: Republic of Nauru, Country's Capital: Yaren, Country's Flag: 🇳🇷
+Country Name: Republic of Namibia, Country's Capital: Windhoek, Country's Flag: 🇳🇦
+Country Name: Republic of Chad, Country's Capital: N'Djamena, Country's Flag: 🇹🇩
+Country Name: Kingdom of Tonga, Country's Capital: Nuku'alofa, Country's Flag: 🇹🇴
+Country Name: Argentine Republic, Country's Capital: Buenos Aires, Country's Flag: 🇦🇷
+Country Name: Territory of Christmas Island, Country's Capital: Flying Fish Cove, Country's Flag: 🇨 🇽
+Country Name: Republic of Niger, Country's Capital: Niamey, Country's Flag: 🇳🇪
+Country Name: Republic of the Marshall Islands, Country's Capital: Majuro, Country's Flag: 🇲🇭
+Country Name: Republic of Costa Rica, Country's Capital: San José, Country's Flag: 🇨🇷
+Country Name: Republic of Ghana, Country's Capital: Accra, Country's Flag: 🇬🇭
+Country Name: Republic of Austria, Country's Capital: Vienna, Country's Flag: 🇦🇹
+Country Name: Saint Helena, Ascension and Tristan da Cunha, Country's Capital: Jamestown, Country's Flag: 🇸🇭
+Country Name: State of Palestine, Country's Capital: Ramallah,Jerusalem, Country's Flag: 🇵🇸
+Country Name: Republic of Cuba, Country's Capital: Havana, Country's Flag: 🇨🇺
+Country Name: Hungary, Country's Capital: Budapest, Country's Flag: 🇭🇺
+Country Name: Federated States of Micronesia, Country's Capital: Palikir, Country's Flag: 🇫🇲
+Country Name: Belize, Country's Capital: Belmopan, Country's Flag: 🇧🇿
+Country Name: Commonwealth of the Bahamas, Country's Capital: Nassau, Country's Flag: 🇧🇸
+Country Name: Aruba, Country's Capital: Oranjestad, Country's Flag: 🇦🇼
+Country Name: Democratic Republic of São Tomé and Príncipe, Country's Capital: São Tomé, Country's Flag: 🇸🇹
+Country Name: Russian Federation, Country's Capital: Moscow, Country's Flag: 🇷🇺
+Country Name: Grand Duchy of Luxembourg, Country's Capital: Luxembourg, Country's Flag: 🇱🇺
+Country Name: Faroe Islands, Country's Capital: Tórshavn, Country's Flag: 🇫🇴
+Country Name: Republic of Nicaragua, Country's Capital: Managua, Country's Flag: 🇳🇮
+Country Name: Tunisian Republic, Country's Capital: Tunis, Country's Flag: 🇹🇳
+Country Name: Democratic Republic of the Congo, Country's Capital: Kinshasa, Country's Flag: 🇨🇩
+Country Name: Svalbard og Jan Mayen, Country's Capital: Longyearbyen, Country's Flag: 🇸🇯
+Country Name: Republic of South Africa, Country's Capital: Pretoria,Bloemfontein,Cape Town, Country's Flag: 🇿🇦
+Country Name: Republic of Sierra Leone, Country's Capital: Freetown, Country's Flag: 🇸🇱
+Country Name: Kingdom of Lesotho, Country's Capital: Maseru, Country's Flag: 🇱🇸
+Country Name: South Georgia and the South Sandwich Islands, Country's Capital: King Edward Point, Country's Flag: 🇬🇸
+Country Name: Italian Republic, Country's Capital: Rome, Country's Flag: 🇮🇹
+Country Name: Republic of Djibouti, Country's Capital: Djibouti, Country's Flag: 🇩🇯
+Country Name: Heard Island and McDonald Islands, Country's Capital: undefined, Country's Flag: 🇭🇲
+Country Name: Democratic Socialist Republic of Sri Lanka, Country's Capital: Sri Jayawardenepura Kotte, Country's Flag: 🇱🇰
+Country Name: Saint Lucia, Country's Capital: Castries, Country's Flag: 🇱🇨
+Country Name: Independent State of Samoa, Country's Capital: Apia, Country's Flag: 🇼🇸
+Country Name: Territory of the Cocos (Keeling) Islands, Country's Capital: West Island, Country's Flag: 🇨🇨
+Country Name: Commonwealth of Puerto Rico, Country's Capital: San Juan, Country's Flag: 🇵🇷
+Country Name: Gabonese Republic, Country's Capital: Libreville, Country's Flag: 🇬🇦
+Country Name: Turkmenistan, Country's Capital: Ashgabat, Country's Flag: 🇹🇲
+Country Name: Republic of Latvia, Country's Capital: Riga, Country's Flag: 🇱🇻
+Country Name: Republic of Senegal, Country's Capital: Dakar, Country's Flag: 🇸🇳
+Country Name: Kingdom of Belgium, Country's Capital: Brussels, Country's Flag: 🇧🇪
+Country Name: Republic of Moldova, Country's Capital: Chișinău, Country's Flag: 🇲🇩
+Country Name: Principality of Liechtenstein, Country's Capital: Vaduz, Country's Flag: 🇱🇮
+Country Name: Republic of Malawi, Country's Capital: Lilongwe, Country's Flag: 🇲🇼
+Country Name: Lebanese Republic, Country's Capital: Beirut, Country's Flag: 🇱🇧
+Country Name: Mongolia, Country's Capital: Ulan Bator, Country's Flag: 🇲🇳
+Country Name: Kingdom of Norway, Country's Capital: Oslo, Country's Flag: 🇳🇴
+Country Name: Virgin Islands, Country's Capital: Road Town, Country's Flag: 🇻🇬
+Country Name: Republic of Cameroon, Country's Capital: Yaoundé, Country's Flag: 🇨🇲
+Country Name: Kingdom of Thailand, Country's Capital: Bangkok, Country's Flag: 🇹🇭
+Country Name: Federal Republic of Nigeria, Country's Capital: Abuja, Country's Flag: 🇳🇬
+Country Name: Réunion Island, Country's Capital: Saint-Denis, Country's Flag: 🇷🇪
+Country Name: Republic of Cabo Verde, Country's Capital: Praia, Country's Flag: 🇨🇻
+Country Name: Bailiwick of Jersey, Country's Capital: Saint Helier, Country's Flag: 🇯🇪
+Country Name: People's Democratic Republic of Algeria, Country's Capital: Algiers, Country's Flag: �🇿�
+Country Name: Lao People's Democratic Republic, Country's Capital: Vientiane, Country's Flag: 🇱🇦
+Country Name: Bonaire, Sint Eustatius and Saba, Country's Capital: Kralendijk, Country's Flag: 🇧🇶
+Country Name: Republic of Azerbaijan, Country's Capital: Baku, Country's Flag: 🇦🇿
+Country Name: Sint Maarten, Country's Capital: Philipsburg, Country's Flag: 🇸🇽
+Country Name: Kingdom of Morocco, Country's Capital: Rabat, Country's Flag: 🇲🇦
+Country Name: Åland Islands, Country's Capital: Mariehamn, Country's Flag: 🇦🇽
+Country Name: Republic of Bulgaria, Country's Capital: Sofia, Country's Flag: 🇧🇬
+Country Name: Republic of Burundi, Country's Capital: Gitega, Country's Flag: 🇧🇮
+Country Name: Republic of Uganda, Country's Capital: Kampala, Country's Flag: 🇺🇬
+Country Name: Republic of Kosovo, Country's Capital: Pristina, Country's Flag: 🇽🇰
+Country Name: Republic of Mozambique, Country's Capital: Maputo, Country's Flag: 🇲🇿
+Country Name: Georgia, Country's Capital: Tbilisi, Country's Flag: 🇬🇪
+Country Name: United Kingdom of Great Britain and Northern Ireland, Country's Capital: London, Country's Flag: 🇬🇧
+Country Name: Territory of the Wallis and Futuna Islands, Country's Capital: Mata-Utu, Country's Flag: 🇼🇫
+Country Name: Pitcairn Group of Islands, Country's Capital: Adamstown, Country's Flag: 🇵🇳
+Country Name: Romania, Country's Capital: Bucharest, Country's Flag: 🇷🇴
+Country Name: Socialist Republic of Vietnam, Country's Capital: Hanoi, Country's Flag: 🇻🇳
+Country Name: Territory of the French Southern and Antarctic Lands, Country's Capital: Port-aux-Français, Country's Flag: 🇹🇫
+Country Name: Sahrawi Arab Democratic Republic, Country's Capital: El Aaiún, Country's Flag: 🇪🇭
+Country Name: Japan, Country's Capital: Tokyo, Country's Flag: 🇯🇵
+Country Name: Arab Republic of Egypt, Country's Capital: Cairo, Country's Flag: 🇪🇬
+Country Name: Republic of Liberia, Country's Capital: Monrovia, Country's Flag: 🇱🇷
+Country Name: Republic of Lithuania, Country's Capital: Vilnius, Country's Flag: 🇱🇹
+Country Name: Republic of Haiti, Country's Capital: Port-au-Prince, Country's Flag: 🇭🇹
+Country Name: Virgin Islands of the United States, Country's Capital: Charlotte Amalie, Country's Flag: 🇻🇮
+Country Name: Independent State of Papua New Guinea, Country's Capital: Port Moresby, Country's Flag: 🇵🇬
+Country Name: Hong Kong Special Administrative Region of the People's Republic of China, Country's Capital: City of Victoria, Country's Flag: 🇭🇰
+Country Name: Kyrgyz Republic, Country's Capital: Bishkek, Country's Flag: 🇰🇬
+Country Name: Republic of Palau, Country's Capital: Ngerulmud, Country's Flag: 🇵🇼
+Country Name: Republic of Madagascar, Country's Capital: Antananarivo, Country's Flag: 🇲🇬
+Country Name: Republic of the Gambia, Country's Capital: Banjul, Country's Flag: 🇬🇲
+Country Name: Togolese Republic, Country's Capital: Lomé, Country's Flag: 🇹🇬
+Country Name: Tokelau, Country's Capital: Fakaofo, Country's Flag: 🇹🇰
+Country Name: Republic of Slovenia, Country's Capital: Ljubljana, Country's Flag: 🇸🇮
+Country Name: Republic of Singapore, Country's Capital: Singapore, Country's Flag: 🇸🇬
+Country Name: Guiana, Country's Capital: Cayenne, Country's Flag: 🇬🇫
+Country Name: United States of America, Country's Capital: Washington, D.C., Country's Flag: 🇺🇸
+Country Name: Montserrat, Country's Capital: Plymouth, Country's Flag: 🇲🇸
+Country Name: Malaysia, Country's Capital: Kuala Lumpur, Country's Flag: 🇲🇾
+Country Name: Federal Republic of Germany, Country's Capital: Berlin, Country's Flag: 🇩🇪
+Country Name: Antigua and Barbuda, Country's Capital: Saint John's, Country's Flag: 🇦🇬
+Country Name: Saint Martin, Country's Capital: Marigot, Country's Flag: 🇲🇫
+Country Name: Federal Republic of Somalia, Country's Capital: Mogadishu, Country's Flag: 🇸🇴
+Country Name: Macao Special Administrative Region of the People's Republic of China, Country's Capital: undefined, Country's Flag: 🇲🇴       
+Country Name: Republic of Albania, Country's Capital: Tirana, Country's Flag: 🇦🇱
+Country Name: Department of Mayotte, Country's Capital: Mamoudzou, Country's Flag: 🇾🇹
+Country Name: Commonwealth of Dominica, Country's Capital: Roseau, Country's Flag: 🇩🇲
+Country Name: Republic of Zambia, Country's Capital: Lusaka, Country's Flag: 🇿🇲
+Country Name: Anguilla, Country's Capital: The Valley, Country's Flag: 🇦🇮
+Country Name: Cook Islands, Country's Capital: Avarua, Country's Flag: 🇨🇰
+Country Name: Martinique, Country's Capital: Fort-de-France, Country's Flag: 🇲🇶
+Country Name: Republic of Guinea, Country's Capital: Conakry, Country's Flag: 🇬🇳
+Country Name: Union of the Comoros, Country's Capital: Moroni, Country's Flag: 🇰🇲
+Country Name: Niue, Country's Capital: Alofi, Country's Flag: 🇳🇺
+Country Name: Swiss Confederation, Country's Capital: Bern, Country's Flag: 🇨🇭
+Country Name: Territory of Norfolk Island, Country's Capital: Kingston, Country's Flag: 🇳🇫
+Country Name: Isle of Man, Country's Capital: Douglas, Country's Flag: 🇮🇲
+Country Name: Republic of the Sudan, Country's Capital: Khartoum, Country's Flag: 🇸🇩
+Country Name: Republic of Tajikistan, Country's Capital: Dushanbe, Country's Flag: 🇹🇯
+Country Name: Oriental Republic of Uruguay, Country's Capital: Montevideo, Country's Flag: 🇺🇾
+Country Name: Republic of Cyprus, Country's Capital: Nicosia, Country's Flag: 🇨🇾
+Country Name: Republic of Guinea-Bissau, Country's Capital: Bissau, Country's Flag: 🇬🇼
